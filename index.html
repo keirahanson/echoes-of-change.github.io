@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Echoes of Change: Noise & Price in NYC</title>
+  <script type="module" crossorigin src="./assets/index-BL_ygyer.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-rywM4wQd.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="hero-content">
+                <h1 class="hero-title">Echoes of Change</h1>
+                <p class="hero-subtitle">Exploring the relationship between street noise and real estate prices across New York City</p>
+                <div class="scroll-indicator">
+                    <span>Scroll to begin</span>
+                    <svg class="scroll-arrow" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                        <polyline points="6 9 12 15 18 9"></polyline>
+                    </svg>
+                </div>
+            </div>
+        </section>
+
+        <!-- Scrollytelling Container -->
+        <div class="scrollytale">
+            <!-- Step 1: Introduction -->
+            <section class="step" data-step="0">
+                <div class="step-content">
+                    <h2>What's Happening in NYC?</h2>
+                    <p>In New York City, two forces shape neighborhoods: the sounds we hear and the prices we pay. This analysis examines data from 2010-2025 across the five boroughs to uncover hidden patterns.</p>
+                    <p><strong>Data from:</strong> 311 Noise Complaints & StreetEasy Housing Market Data</p>
+                </div>
+                <div class="visualization" id="viz-0">
+                    <svg class="chart" id="noise-preview"></svg>
+                </div>
+            </section>
+
+            <!-- Step 2: Noise Trends -->
+            <section class="step" data-step="1">
+                <div class="step-content">
+                    <h2>Rising Noise, Rising Complaints</h2>
+                    <p>311 complaints spiked dramatically in January 2020 across all boroughs. Each line represents a borough's noise complaint trajectory.</p>
+                    <p>Manhattan consistently reports the most noise complaints, while outer boroughs show lower baseline levels.</p>
+                </div>
+                <div class="visualization" id="viz-1">
+                    <svg class="chart" id="noise-chart"></svg>
+                </div>
+            </section>
+
+            <!-- Step 3: Price Movements -->
+            <section class="step" data-step="2">
+                <div class="step-content">
+                    <h2>Price Trajectories by Borough</h2>
+                    <p>Median sale prices reveal distinct market behaviors. Manhattan leads in absolute prices, but all boroughs show volatility during market shocks (2020-2021).</p>
+                    <p>The post-pandemic years show recovery and growth across all five boroughs.</p>
+                </div>
+                <div class="visualization" id="viz-2">
+                    <svg class="chart" id="price-chart"></svg>
+                </div>
+            </section>
+
+            <!-- Step 4: VAR Model Results -->
+            <section class="step" data-step="3">
+                <div class="step-content">
+                    <h2>VAR(1) Model Insights</h2>
+                    <p>A Vector Autoregression model reveals how noise and price influence each other with a 1-day lag.</p>
+                    <p>The darker the color, the stronger the effect of yesterday's variable on today's outcome.</p>
+                </div>
+                <div class="visualization" id="viz-3">
+                    <svg class="chart" id="var-heatmap"></svg>
+                </div>
+            </section>
+
+            <!-- Granger causality section removed -->
+
+            <!-- Step 6: Conclusion -->
+            <section class="step" data-step="5">
+                <div class="step-content">
+                    <h2>Key Takeaways</h2>
+                    <ul class="insights-list">
+                        <li><strong>Noise ≠ Price Driver:</strong> While both vary significantly, noise doesn't statistically predict price changes in this window.</li>
+                        <li><strong>Borough Differences:</strong> Each borough has distinct noise and price profiles shaped by local geography and economy.</li>
+                        <li><strong>External Shocks Matter:</strong> The 2020 pandemic caused simultaneous spikes in both complaints and price volatility.</li>
+                        <li><strong>Future Research:</strong> Consider longer lags, spatial analysis, and demographic factors for deeper insights.</li>
+                    </ul>
+                </div>
+                <div class="visualization" id="viz-5">
+                    <div class="summary-stats">
+                        <div class="stat">
+                            <h3>4 Boroughs</h3>
+                            <p>Analyzed</p>
+                        </div>
+                        <div class="stat">
+                            <h3>15+ Years</h3>
+                            <p>Of Data</p>
+                        </div>
+                        <!-- <div class="stat">
+                            <h3>0 Significant</h3>
+                            <p>Causal Links</p>
+                        </div> -->
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Analysis of NYC 311 Noise Complaints & StreetEasy Housing Data (2010-2025)</p>
+            <p class="footer-tech">Built with Vite, D3, and Scrollama</p>
+        </footer>
+    </div>
+
+</body>
+</html>
