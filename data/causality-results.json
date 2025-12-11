@@ -1,0 +1,30 @@
+[
+  {
+    "borough": "BRONX",
+    "granger_noise_to_price_p": 0.879411,
+    "noise_causes_price": false,
+    "granger_price_to_noise_p": 0.624361,
+    "price_causes_noise": false
+  },
+  {
+    "borough": "BROOKLYN",
+    "granger_noise_to_price_p": 0.604100,
+    "noise_causes_price": false,
+    "granger_price_to_noise_p": 0.817745,
+    "price_causes_noise": false
+  },
+  {
+    "borough": "MANHATTAN",
+    "granger_noise_to_price_p": 0.386840,
+    "noise_causes_price": false,
+    "granger_price_to_noise_p": 0.682350,
+    "price_causes_noise": false
+  },
+  {
+    "borough": "QUEENS",
+    "granger_noise_to_price_p": 0.331991,
+    "noise_causes_price": false,
+    "granger_price_to_noise_p": 0.806333,
+    "price_causes_noise": false
+  }
+]

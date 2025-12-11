@@ -1,0 +1,1598 @@
+[
+  {
+    "Year_Month": "2019-07",
+    "Borough": "QUEENS",
+    "Total_Complaints": 1,
+    "Median_Sales_Price_Aggregated": 1012014.7874306838
+  },
+  {
+    "Year_Month": "2019-08",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 3,
+    "Median_Sales_Price_Aggregated": 1467190.388170055
+  },
+  {
+    "Year_Month": "2019-08",
+    "Borough": "QUEENS",
+    "Total_Complaints": 6,
+    "Median_Sales_Price_Aggregated": 1012014.7874306838
+  },
+  {
+    "Year_Month": "2019-09",
+    "Borough": "BRONX",
+    "Total_Complaints": 1,
+    "Median_Sales_Price_Aggregated": 459103.5120147874
+  },
+  {
+    "Year_Month": "2019-09",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 1,
+    "Median_Sales_Price_Aggregated": 887245.8410351201
+  },
+  {
+    "Year_Month": "2019-09",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 1,
+    "Median_Sales_Price_Aggregated": 1467190.388170055
+  },
+  {
+    "Year_Month": "2019-10",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 6,
+    "Median_Sales_Price_Aggregated": 887245.8410351201
+  },
+  {
+    "Year_Month": "2019-10",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 11,
+    "Median_Sales_Price_Aggregated": 1467190.388170055
+  },
+  {
+    "Year_Month": "2019-10",
+    "Borough": "QUEENS",
+    "Total_Complaints": 4,
+    "Median_Sales_Price_Aggregated": 1012014.7874306838
+  },
+  {
+    "Year_Month": "2019-11",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 2,
+    "Median_Sales_Price_Aggregated": 887245.8410351201
+  },
+  {
+    "Year_Month": "2019-11",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 4,
+    "Median_Sales_Price_Aggregated": 1467190.388170055
+  },
+  {
+    "Year_Month": "2019-11",
+    "Borough": "QUEENS",
+    "Total_Complaints": 18,
+    "Median_Sales_Price_Aggregated": 1012014.7874306838
+  },
+  {
+    "Year_Month": "2019-12",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 1,
+    "Median_Sales_Price_Aggregated": 887245.8410351201
+  },
+  {
+    "Year_Month": "2019-12",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 2,
+    "Median_Sales_Price_Aggregated": 1467190.388170055
+  },
+  {
+    "Year_Month": "2019-12",
+    "Borough": "QUEENS",
+    "Total_Complaints": 6,
+    "Median_Sales_Price_Aggregated": 1012014.7874306838
+  },
+  {
+    "Year_Month": "2020-01",
+    "Borough": "BRONX",
+    "Total_Complaints": 6231,
+    "Median_Sales_Price_Aggregated": 448243.9926062846
+  },
+  {
+    "Year_Month": "2020-01",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 8398,
+    "Median_Sales_Price_Aggregated": 1000462.1072088724
+  },
+  {
+    "Year_Month": "2020-01",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 9788,
+    "Median_Sales_Price_Aggregated": 1289279.112754159
+  },
+  {
+    "Year_Month": "2020-01",
+    "Borough": "QUEENS",
+    "Total_Complaints": 5901,
+    "Median_Sales_Price_Aggregated": 783271.719038817
+  },
+  {
+    "Year_Month": "2020-02",
+    "Borough": "BRONX",
+    "Total_Complaints": 6214,
+    "Median_Sales_Price_Aggregated": 465804.06654343806
+  },
+  {
+    "Year_Month": "2020-02",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 7604,
+    "Median_Sales_Price_Aggregated": 679297.5970425138
+  },
+  {
+    "Year_Month": "2020-02",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 9825,
+    "Median_Sales_Price_Aggregated": 1099815.1571164508
+  },
+  {
+    "Year_Month": "2020-02",
+    "Borough": "QUEENS",
+    "Total_Complaints": 5372,
+    "Median_Sales_Price_Aggregated": 865295.7486136783
+  },
+  {
+    "Year_Month": "2020-03",
+    "Borough": "BRONX",
+    "Total_Complaints": 7778,
+    "Median_Sales_Price_Aggregated": 455845.6561922366
+  },
+  {
+    "Year_Month": "2020-03",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 10661,
+    "Median_Sales_Price_Aggregated": 852587.8003696857
+  },
+  {
+    "Year_Month": "2020-03",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 11494,
+    "Median_Sales_Price_Aggregated": 1029112.7541589648
+  },
+  {
+    "Year_Month": "2020-03",
+    "Borough": "QUEENS",
+    "Total_Complaints": 6421,
+    "Median_Sales_Price_Aggregated": 810506.0073937153
+  },
+  {
+    "Year_Month": "2020-04",
+    "Borough": "BRONX",
+    "Total_Complaints": 10562,
+    "Median_Sales_Price_Aggregated": 497689.4639556377
+  },
+  {
+    "Year_Month": "2020-04",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 11034,
+    "Median_Sales_Price_Aggregated": 733968.3456561922
+  },
+  {
+    "Year_Month": "2020-04",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 10044,
+    "Median_Sales_Price_Aggregated": 1324365.064695009
+  },
+  {
+    "Year_Month": "2020-04",
+    "Borough": "QUEENS",
+    "Total_Complaints": 7116,
+    "Median_Sales_Price_Aggregated": 799918.6691312384
+  },
+  {
+    "Year_Month": "2020-05",
+    "Borough": "BRONX",
+    "Total_Complaints": 24187,
+    "Median_Sales_Price_Aggregated": 375462.1072088725
+  },
+  {
+    "Year_Month": "2020-05",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 19503,
+    "Median_Sales_Price_Aggregated": 753234.7504621071
+  },
+  {
+    "Year_Month": "2020-05",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 18403,
+    "Median_Sales_Price_Aggregated": 1251663.5859519409
+  },
+  {
+    "Year_Month": "2020-05",
+    "Borough": "QUEENS",
+    "Total_Complaints": 13548,
+    "Median_Sales_Price_Aggregated": 586876.1552680221
+  },
+  {
+    "Year_Month": "2020-06",
+    "Borough": "BRONX",
+    "Total_Complaints": 34785,
+    "Median_Sales_Price_Aggregated": 415203.3271719039
+  },
+  {
+    "Year_Month": "2020-06",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 26221,
+    "Median_Sales_Price_Aggregated": 741295.2865064695
+  },
+  {
+    "Year_Month": "2020-06",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 26141,
+    "Median_Sales_Price_Aggregated": 922365.988909427
+  },
+  {
+    "Year_Month": "2020-06",
+    "Borough": "QUEENS",
+    "Total_Complaints": 17691,
+    "Median_Sales_Price_Aggregated": 727356.7467652495
+  },
+  {
+    "Year_Month": "2020-07",
+    "Borough": "BRONX",
+    "Total_Complaints": 35340,
+    "Median_Sales_Price_Aggregated": 455175.6007393715
+  },
+  {
+    "Year_Month": "2020-07",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 18409,
+    "Median_Sales_Price_Aggregated": 924214.4177449167
+  },
+  {
+    "Year_Month": "2020-07",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 20888,
+    "Median_Sales_Price_Aggregated": 1164510.166358595
+  },
+  {
+    "Year_Month": "2020-07",
+    "Borough": "QUEENS",
+    "Total_Complaints": 16009,
+    "Median_Sales_Price_Aggregated": 771719.0388170055
+  },
+  {
+    "Year_Month": "2020-08",
+    "Borough": "BRONX",
+    "Total_Complaints": 43060,
+    "Median_Sales_Price_Aggregated": 395563.7707948244
+  },
+  {
+    "Year_Month": "2020-08",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 20115,
+    "Median_Sales_Price_Aggregated": 794824.3992606284
+  },
+  {
+    "Year_Month": "2020-08",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 21707,
+    "Median_Sales_Price_Aggregated": 1067467.6524953789
+  },
+  {
+    "Year_Month": "2020-08",
+    "Borough": "QUEENS",
+    "Total_Complaints": 16471,
+    "Median_Sales_Price_Aggregated": 553604.4362292051
+  },
+  {
+    "Year_Month": "2020-09",
+    "Borough": "BRONX",
+    "Total_Complaints": 36093,
+    "Median_Sales_Price_Aggregated": 508317.9297597042
+  },
+  {
+    "Year_Month": "2020-09",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 21575,
+    "Median_Sales_Price_Aggregated": 762476.8946395563
+  },
+  {
+    "Year_Month": "2020-09",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 22835,
+    "Median_Sales_Price_Aggregated": 1409426.987060998
+  },
+  {
+    "Year_Month": "2020-09",
+    "Borough": "QUEENS",
+    "Total_Complaints": 18396,
+    "Median_Sales_Price_Aggregated": 619223.6598890942
+  },
+  {
+    "Year_Month": "2020-10",
+    "Borough": "BRONX",
+    "Total_Complaints": 20623,
+    "Median_Sales_Price_Aggregated": 450554.5286506469
+  },
+  {
+    "Year_Month": "2020-10",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 18685,
+    "Median_Sales_Price_Aggregated": 797134.4731977818
+  },
+  {
+    "Year_Month": "2020-10",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 22252,
+    "Median_Sales_Price_Aggregated": 1053604.436229205
+  },
+  {
+    "Year_Month": "2020-10",
+    "Borough": "QUEENS",
+    "Total_Complaints": 15517,
+    "Median_Sales_Price_Aggregated": 682994.4547134935
+  },
+  {
+    "Year_Month": "2020-11",
+    "Borough": "BRONX",
+    "Total_Complaints": 14827,
+    "Median_Sales_Price_Aggregated": 459103.5120147874
+  },
+  {
+    "Year_Month": "2020-11",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 13240,
+    "Median_Sales_Price_Aggregated": 887245.8410351201
+  },
+  {
+    "Year_Month": "2020-11",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 15588,
+    "Median_Sales_Price_Aggregated": 1467190.388170055
+  },
+  {
+    "Year_Month": "2020-11",
+    "Borough": "QUEENS",
+    "Total_Complaints": 11117,
+    "Median_Sales_Price_Aggregated": 1012014.7874306838
+  },
+  {
+    "Year_Month": "2020-12",
+    "Borough": "BRONX",
+    "Total_Complaints": 11982,
+    "Median_Sales_Price_Aggregated": 530036.9685767097
+  },
+  {
+    "Year_Month": "2020-12",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 10046,
+    "Median_Sales_Price_Aggregated": 896487.9852125692
+  },
+  {
+    "Year_Month": "2020-12",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 12098,
+    "Median_Sales_Price_Aggregated": 1207486.1367837335
+  },
+  {
+    "Year_Month": "2020-12",
+    "Borough": "QUEENS",
+    "Total_Complaints": 7912,
+    "Median_Sales_Price_Aggregated": 729667.2828096118
+  },
+  {
+    "Year_Month": "2021-01",
+    "Borough": "BRONX",
+    "Total_Complaints": 11728,
+    "Median_Sales_Price_Aggregated": 462222.2222222222
+  },
+  {
+    "Year_Month": "2021-01",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 9878,
+    "Median_Sales_Price_Aggregated": 800444.4444444444
+  },
+  {
+    "Year_Month": "2021-01",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 16969,
+    "Median_Sales_Price_Aggregated": 1235555.5555555555
+  },
+  {
+    "Year_Month": "2021-01",
+    "Borough": "QUEENS",
+    "Total_Complaints": 7899,
+    "Median_Sales_Price_Aggregated": 763555.5555555555
+  },
+  {
+    "Year_Month": "2021-02",
+    "Borough": "BRONX",
+    "Total_Complaints": 7689,
+    "Median_Sales_Price_Aggregated": 467529.77777777775
+  },
+  {
+    "Year_Month": "2021-02",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 8487,
+    "Median_Sales_Price_Aggregated": 868888.8888888889
+  },
+  {
+    "Year_Month": "2021-02",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 9674,
+    "Median_Sales_Price_Aggregated": 1211111.111111111
+  },
+  {
+    "Year_Month": "2021-02",
+    "Borough": "QUEENS",
+    "Total_Complaints": 5743,
+    "Median_Sales_Price_Aggregated": 724444.4444444444
+  },
+  {
+    "Year_Month": "2021-03",
+    "Borough": "BRONX",
+    "Total_Complaints": 11239,
+    "Median_Sales_Price_Aggregated": 533000.0
+  },
+  {
+    "Year_Month": "2021-03",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 12021,
+    "Median_Sales_Price_Aggregated": 986222.222222222
+  },
+  {
+    "Year_Month": "2021-03",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 15805,
+    "Median_Sales_Price_Aggregated": 1266666.6666666665
+  },
+  {
+    "Year_Month": "2021-03",
+    "Borough": "QUEENS",
+    "Total_Complaints": 8935,
+    "Median_Sales_Price_Aggregated": 732888.8888888889
+  },
+  {
+    "Year_Month": "2021-04",
+    "Borough": "BRONX",
+    "Total_Complaints": 14456,
+    "Median_Sales_Price_Aggregated": 470222.2222222222
+  },
+  {
+    "Year_Month": "2021-04",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 14639,
+    "Median_Sales_Price_Aggregated": 675555.5555555555
+  },
+  {
+    "Year_Month": "2021-04",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 19102,
+    "Median_Sales_Price_Aggregated": 1262222.2222222222
+  },
+  {
+    "Year_Month": "2021-04",
+    "Borough": "QUEENS",
+    "Total_Complaints": 10463,
+    "Median_Sales_Price_Aggregated": 600000.0
+  },
+  {
+    "Year_Month": "2021-05",
+    "Borough": "BRONX",
+    "Total_Complaints": 22340,
+    "Median_Sales_Price_Aggregated": 525928.8888888889
+  },
+  {
+    "Year_Month": "2021-05",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 20509,
+    "Median_Sales_Price_Aggregated": 383244.4444444445
+  },
+  {
+    "Year_Month": "2021-05",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 23471,
+    "Median_Sales_Price_Aggregated": 1311111.111111111
+  },
+  {
+    "Year_Month": "2021-05",
+    "Borough": "QUEENS",
+    "Total_Complaints": 15771,
+    "Median_Sales_Price_Aggregated": 966666.6666666666
+  },
+  {
+    "Year_Month": "2021-06",
+    "Borough": "BRONX",
+    "Total_Complaints": 26468,
+    "Median_Sales_Price_Aggregated": 524888.8888888889
+  },
+  {
+    "Year_Month": "2021-06",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 21460,
+    "Median_Sales_Price_Aggregated": 871111.111111111
+  },
+  {
+    "Year_Month": "2021-06",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 22291,
+    "Median_Sales_Price_Aggregated": 1418916.0
+  },
+  {
+    "Year_Month": "2021-06",
+    "Borough": "QUEENS",
+    "Total_Complaints": 16311,
+    "Median_Sales_Price_Aggregated": 755555.5555555555
+  },
+  {
+    "Year_Month": "2021-07",
+    "Borough": "BRONX",
+    "Total_Complaints": 30420,
+    "Median_Sales_Price_Aggregated": 508991.1111111111
+  },
+  {
+    "Year_Month": "2021-07",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 17569,
+    "Median_Sales_Price_Aggregated": 844444.4444444444
+  },
+  {
+    "Year_Month": "2021-07",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 16634,
+    "Median_Sales_Price_Aggregated": 1377777.7777777778
+  },
+  {
+    "Year_Month": "2021-07",
+    "Borough": "QUEENS",
+    "Total_Complaints": 14197,
+    "Median_Sales_Price_Aggregated": 733333.3333333333
+  },
+  {
+    "Year_Month": "2021-08",
+    "Borough": "BRONX",
+    "Total_Complaints": 28748,
+    "Median_Sales_Price_Aggregated": 493333.3333333333
+  },
+  {
+    "Year_Month": "2021-08",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 16287,
+    "Median_Sales_Price_Aggregated": 888000.0
+  },
+  {
+    "Year_Month": "2021-08",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 16230,
+    "Median_Sales_Price_Aggregated": 1163715.5555555555
+  },
+  {
+    "Year_Month": "2021-08",
+    "Borough": "QUEENS",
+    "Total_Complaints": 13582,
+    "Median_Sales_Price_Aggregated": 700000.0
+  },
+  {
+    "Year_Month": "2021-09",
+    "Borough": "BRONX",
+    "Total_Complaints": 26687,
+    "Median_Sales_Price_Aggregated": 382222.2222222222
+  },
+  {
+    "Year_Month": "2021-09",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 18816,
+    "Median_Sales_Price_Aggregated": 762222.2222222221
+  },
+  {
+    "Year_Month": "2021-09",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 18326,
+    "Median_Sales_Price_Aggregated": 1288888.8888888888
+  },
+  {
+    "Year_Month": "2021-09",
+    "Borough": "QUEENS",
+    "Total_Complaints": 16349,
+    "Median_Sales_Price_Aggregated": 844444.4444444444
+  },
+  {
+    "Year_Month": "2021-10",
+    "Borough": "BRONX",
+    "Total_Complaints": 16233,
+    "Median_Sales_Price_Aggregated": 560000.0
+  },
+  {
+    "Year_Month": "2021-10",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 17513,
+    "Median_Sales_Price_Aggregated": 631111.1111111111
+  },
+  {
+    "Year_Month": "2021-10",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 20206,
+    "Median_Sales_Price_Aggregated": 1444444.4444444445
+  },
+  {
+    "Year_Month": "2021-10",
+    "Borough": "QUEENS",
+    "Total_Complaints": 14353,
+    "Median_Sales_Price_Aggregated": 884000.0
+  },
+  {
+    "Year_Month": "2021-11",
+    "Borough": "BRONX",
+    "Total_Complaints": 9174,
+    "Median_Sales_Price_Aggregated": 549777.7777777778
+  },
+  {
+    "Year_Month": "2021-11",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 10939,
+    "Median_Sales_Price_Aggregated": 888000.0
+  },
+  {
+    "Year_Month": "2021-11",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 12979,
+    "Median_Sales_Price_Aggregated": 1226666.6666666665
+  },
+  {
+    "Year_Month": "2021-11",
+    "Borough": "QUEENS",
+    "Total_Complaints": 9221,
+    "Median_Sales_Price_Aggregated": 888000.0
+  },
+  {
+    "Year_Month": "2021-12",
+    "Borough": "BRONX",
+    "Total_Complaints": 8229,
+    "Median_Sales_Price_Aggregated": 511111.1111111111
+  },
+  {
+    "Year_Month": "2021-12",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 10220,
+    "Median_Sales_Price_Aggregated": 693333.3333333333
+  },
+  {
+    "Year_Month": "2021-12",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 11685,
+    "Median_Sales_Price_Aggregated": 1326666.6666666665
+  },
+  {
+    "Year_Month": "2021-12",
+    "Borough": "QUEENS",
+    "Total_Complaints": 8856,
+    "Median_Sales_Price_Aggregated": 826666.6666666666
+  },
+  {
+    "Year_Month": "2022-01",
+    "Borough": "BRONX",
+    "Total_Complaints": 8322,
+    "Median_Sales_Price_Aggregated": 544093.1780366056
+  },
+  {
+    "Year_Month": "2022-01",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 8900,
+    "Median_Sales_Price_Aggregated": 727953.4109816971
+  },
+  {
+    "Year_Month": "2022-01",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 9800,
+    "Median_Sales_Price_Aggregated": 1289517.4708818635
+  },
+  {
+    "Year_Month": "2022-01",
+    "Borough": "QUEENS",
+    "Total_Complaints": 7953,
+    "Median_Sales_Price_Aggregated": 696946.7554076539
+  },
+  {
+    "Year_Month": "2022-02",
+    "Borough": "BRONX",
+    "Total_Complaints": 11496,
+    "Median_Sales_Price_Aggregated": 479409.3178036605
+  },
+  {
+    "Year_Month": "2022-02",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 8624,
+    "Median_Sales_Price_Aggregated": 603993.3444259567
+  },
+  {
+    "Year_Month": "2022-02",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 9911,
+    "Median_Sales_Price_Aggregated": 1312396.0066555738
+  },
+  {
+    "Year_Month": "2022-02",
+    "Borough": "QUEENS",
+    "Total_Complaints": 7520,
+    "Median_Sales_Price_Aggregated": 617720.465890183
+  },
+  {
+    "Year_Month": "2022-03",
+    "Borough": "BRONX",
+    "Total_Complaints": 18346,
+    "Median_Sales_Price_Aggregated": 540765.391014975
+  },
+  {
+    "Year_Month": "2022-03",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 11626,
+    "Median_Sales_Price_Aggregated": 740432.6123128119
+  },
+  {
+    "Year_Month": "2022-03",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 12962,
+    "Median_Sales_Price_Aggregated": 1331114.808652246
+  },
+  {
+    "Year_Month": "2022-03",
+    "Borough": "QUEENS",
+    "Total_Complaints": 8870,
+    "Median_Sales_Price_Aggregated": 702868.5524126455
+  },
+  {
+    "Year_Month": "2022-04",
+    "Borough": "BRONX",
+    "Total_Complaints": 13815,
+    "Median_Sales_Price_Aggregated": 515806.98835274536
+  },
+  {
+    "Year_Month": "2022-04",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 12749,
+    "Median_Sales_Price_Aggregated": 1062811.9800332778
+  },
+  {
+    "Year_Month": "2022-04",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 14389,
+    "Median_Sales_Price_Aggregated": 1355740.4326123127
+  },
+  {
+    "Year_Month": "2022-04",
+    "Borough": "QUEENS",
+    "Total_Complaints": 9639,
+    "Median_Sales_Price_Aggregated": 690723.7936772046
+  },
+  {
+    "Year_Month": "2022-05",
+    "Borough": "BRONX",
+    "Total_Complaints": 33688,
+    "Median_Sales_Price_Aggregated": 490016.6389351081
+  },
+  {
+    "Year_Month": "2022-05",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 17739,
+    "Median_Sales_Price_Aggregated": 789517.4708818635
+  },
+  {
+    "Year_Month": "2022-05",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 18287,
+    "Median_Sales_Price_Aggregated": 1225041.5973377705
+  },
+  {
+    "Year_Month": "2022-05",
+    "Borough": "QUEENS",
+    "Total_Complaints": 14264,
+    "Median_Sales_Price_Aggregated": 627703.8269550748
+  },
+  {
+    "Year_Month": "2022-06",
+    "Borough": "BRONX",
+    "Total_Complaints": 23993,
+    "Median_Sales_Price_Aggregated": 556364.3926788685
+  },
+  {
+    "Year_Month": "2022-06",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 18868,
+    "Median_Sales_Price_Aggregated": 709234.6089850249
+  },
+  {
+    "Year_Month": "2022-06",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 17528,
+    "Median_Sales_Price_Aggregated": 1348450.915141431
+  },
+  {
+    "Year_Month": "2022-06",
+    "Borough": "QUEENS",
+    "Total_Complaints": 14123,
+    "Median_Sales_Price_Aggregated": 779347.7537437603
+  },
+  {
+    "Year_Month": "2022-07",
+    "Borough": "BRONX",
+    "Total_Complaints": 45096,
+    "Median_Sales_Price_Aggregated": 500207.98668885184
+  },
+  {
+    "Year_Month": "2022-07",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 16325,
+    "Median_Sales_Price_Aggregated": 875623.9600665556
+  },
+  {
+    "Year_Month": "2022-07",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 15150,
+    "Median_Sales_Price_Aggregated": 1173341.098169717
+  },
+  {
+    "Year_Month": "2022-07",
+    "Borough": "QUEENS",
+    "Total_Complaints": 12544,
+    "Median_Sales_Price_Aggregated": 735024.9584026622
+  },
+  {
+    "Year_Month": "2022-08",
+    "Borough": "BRONX",
+    "Total_Complaints": 26746,
+    "Median_Sales_Price_Aggregated": 540765.391014975
+  },
+  {
+    "Year_Month": "2022-08",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 15528,
+    "Median_Sales_Price_Aggregated": 925540.7653910147
+  },
+  {
+    "Year_Month": "2022-08",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 13667,
+    "Median_Sales_Price_Aggregated": 1164873.544093178
+  },
+  {
+    "Year_Month": "2022-08",
+    "Borough": "QUEENS",
+    "Total_Complaints": 11109,
+    "Median_Sales_Price_Aggregated": 515806.98835274536
+  },
+  {
+    "Year_Month": "2022-09",
+    "Borough": "BRONX",
+    "Total_Complaints": 33115,
+    "Median_Sales_Price_Aggregated": 488768.7188019966
+  },
+  {
+    "Year_Month": "2022-09",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 17016,
+    "Median_Sales_Price_Aggregated": 619384.3594009983
+  },
+  {
+    "Year_Month": "2022-09",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 15582,
+    "Median_Sales_Price_Aggregated": 1193843.5940099834
+  },
+  {
+    "Year_Month": "2022-09",
+    "Borough": "QUEENS",
+    "Total_Complaints": 11715,
+    "Median_Sales_Price_Aggregated": 673876.8718801996
+  },
+  {
+    "Year_Month": "2022-10",
+    "Borough": "BRONX",
+    "Total_Complaints": 11849,
+    "Median_Sales_Price_Aggregated": 531613.9767054908
+  },
+  {
+    "Year_Month": "2022-10",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 15814,
+    "Median_Sales_Price_Aggregated": 873544.0931780365
+  },
+  {
+    "Year_Month": "2022-10",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 16790,
+    "Median_Sales_Price_Aggregated": 1110648.9184692178
+  },
+  {
+    "Year_Month": "2022-10",
+    "Borough": "QUEENS",
+    "Total_Complaints": 10235,
+    "Median_Sales_Price_Aggregated": 872712.1464226289
+  },
+  {
+    "Year_Month": "2022-11",
+    "Borough": "BRONX",
+    "Total_Complaints": 8645,
+    "Median_Sales_Price_Aggregated": 467970.0499168053
+  },
+  {
+    "Year_Month": "2022-11",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 11738,
+    "Median_Sales_Price_Aggregated": 754991.6805324459
+  },
+  {
+    "Year_Month": "2022-11",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 13015,
+    "Median_Sales_Price_Aggregated": 1206322.795341098
+  },
+  {
+    "Year_Month": "2022-11",
+    "Borough": "QUEENS",
+    "Total_Complaints": 8403,
+    "Median_Sales_Price_Aggregated": 827371.0482529118
+  },
+  {
+    "Year_Month": "2022-12",
+    "Borough": "BRONX",
+    "Total_Complaints": 7348,
+    "Median_Sales_Price_Aggregated": 452371.0482529118
+  },
+  {
+    "Year_Month": "2022-12",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 10517,
+    "Median_Sales_Price_Aggregated": 811148.0865224625
+  },
+  {
+    "Year_Month": "2022-12",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 12072,
+    "Median_Sales_Price_Aggregated": 1143624.792013311
+  },
+  {
+    "Year_Month": "2022-12",
+    "Borough": "QUEENS",
+    "Total_Complaints": 7954,
+    "Median_Sales_Price_Aggregated": 792429.2845257903
+  },
+  {
+    "Year_Month": "2023-01",
+    "Borough": "BRONX",
+    "Total_Complaints": 8198,
+    "Median_Sales_Price_Aggregated": 406929.8952457695
+  },
+  {
+    "Year_Month": "2023-01",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 10735,
+    "Median_Sales_Price_Aggregated": 874294.9234488315
+  },
+  {
+    "Year_Month": "2023-01",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 12551,
+    "Median_Sales_Price_Aggregated": 1119129.734085415
+  },
+  {
+    "Year_Month": "2023-01",
+    "Borough": "QUEENS",
+    "Total_Complaints": 7516,
+    "Median_Sales_Price_Aggregated": 765511.684125705
+  },
+  {
+    "Year_Month": "2023-02",
+    "Borough": "BRONX",
+    "Total_Complaints": 8294,
+    "Median_Sales_Price_Aggregated": 426873.4891216761
+  },
+  {
+    "Year_Month": "2023-02",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 10573,
+    "Median_Sales_Price_Aggregated": 717163.577759871
+  },
+  {
+    "Year_Month": "2023-02",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 12579,
+    "Median_Sales_Price_Aggregated": 1019339.2425463336
+  },
+  {
+    "Year_Month": "2023-02",
+    "Borough": "QUEENS",
+    "Total_Complaints": 7381,
+    "Median_Sales_Price_Aggregated": 926672.0386784852
+  },
+  {
+    "Year_Month": "2023-03",
+    "Borough": "BRONX",
+    "Total_Complaints": 8688,
+    "Median_Sales_Price_Aggregated": 486180.0966962127
+  },
+  {
+    "Year_Month": "2023-03",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 12788,
+    "Median_Sales_Price_Aggregated": 795729.2506043513
+  },
+  {
+    "Year_Month": "2023-03",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 14244,
+    "Median_Sales_Price_Aggregated": 1196615.6325543916
+  },
+  {
+    "Year_Month": "2023-03",
+    "Borough": "QUEENS",
+    "Total_Complaints": 8747,
+    "Median_Sales_Price_Aggregated": 701309.4278807413
+  },
+  {
+    "Year_Month": "2023-04",
+    "Borough": "BRONX",
+    "Total_Complaints": 12202,
+    "Median_Sales_Price_Aggregated": 220789.6857373086
+  },
+  {
+    "Year_Month": "2023-04",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 16040,
+    "Median_Sales_Price_Aggregated": 946817.0829975826
+  },
+  {
+    "Year_Month": "2023-04",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 17317,
+    "Median_Sales_Price_Aggregated": 1087832.393231265
+  },
+  {
+    "Year_Month": "2023-04",
+    "Borough": "QUEENS",
+    "Total_Complaints": 11073,
+    "Median_Sales_Price_Aggregated": 519742.1434327156
+  },
+  {
+    "Year_Month": "2023-05",
+    "Borough": "BRONX",
+    "Total_Complaints": 16780,
+    "Median_Sales_Price_Aggregated": 479452.05479452055
+  },
+  {
+    "Year_Month": "2023-05",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 19559,
+    "Median_Sales_Price_Aggregated": 799758.2594681708
+  },
+  {
+    "Year_Month": "2023-05",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 18113,
+    "Median_Sales_Price_Aggregated": 1130058.420628525
+  },
+  {
+    "Year_Month": "2023-05",
+    "Borough": "QUEENS",
+    "Total_Complaints": 15202,
+    "Median_Sales_Price_Aggregated": 705076.5511684126
+  },
+  {
+    "Year_Month": "2023-06",
+    "Borough": "BRONX",
+    "Total_Complaints": 14416,
+    "Median_Sales_Price_Aggregated": 477437.5503626108
+  },
+  {
+    "Year_Month": "2023-06",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 20279,
+    "Median_Sales_Price_Aggregated": 773569.7018533441
+  },
+  {
+    "Year_Month": "2023-06",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 23402,
+    "Median_Sales_Price_Aggregated": 1248992.747784045
+  },
+  {
+    "Year_Month": "2023-06",
+    "Borough": "QUEENS",
+    "Total_Complaints": 17284,
+    "Median_Sales_Price_Aggregated": 732876.7123287672
+  },
+  {
+    "Year_Month": "2023-07",
+    "Borough": "BRONX",
+    "Total_Complaints": 16262,
+    "Median_Sales_Price_Aggregated": 478243.3521353747
+  },
+  {
+    "Year_Month": "2023-07",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 16346,
+    "Median_Sales_Price_Aggregated": 1023368.2514101532
+  },
+  {
+    "Year_Month": "2023-07",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 14181,
+    "Median_Sales_Price_Aggregated": 1232473.8114423852
+  },
+  {
+    "Year_Month": "2023-07",
+    "Borough": "QUEENS",
+    "Total_Complaints": 14120,
+    "Median_Sales_Price_Aggregated": 664786.4625302176
+  },
+  {
+    "Year_Month": "2023-08",
+    "Borough": "BRONX",
+    "Total_Complaints": 15699,
+    "Median_Sales_Price_Aggregated": 482675.2618855761
+  },
+  {
+    "Year_Month": "2023-08",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 16405,
+    "Median_Sales_Price_Aggregated": 809830.7816277196
+  },
+  {
+    "Year_Month": "2023-08",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 14195,
+    "Median_Sales_Price_Aggregated": 1128122.48186946
+  },
+  {
+    "Year_Month": "2023-08",
+    "Borough": "QUEENS",
+    "Total_Complaints": 13136,
+    "Median_Sales_Price_Aggregated": 655252.2159548751
+  },
+  {
+    "Year_Month": "2023-09",
+    "Borough": "BRONX",
+    "Total_Complaints": 12583,
+    "Median_Sales_Price_Aggregated": 475969.379532635
+  },
+  {
+    "Year_Month": "2023-09",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 17516,
+    "Median_Sales_Price_Aggregated": 789058.2191780822
+  },
+  {
+    "Year_Month": "2023-09",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 18991,
+    "Median_Sales_Price_Aggregated": 1138409.3473005642
+  },
+  {
+    "Year_Month": "2023-09",
+    "Borough": "QUEENS",
+    "Total_Complaints": 14853,
+    "Median_Sales_Price_Aggregated": 574939.5648670427
+  },
+  {
+    "Year_Month": "2023-10",
+    "Borough": "BRONX",
+    "Total_Complaints": 11083,
+    "Median_Sales_Price_Aggregated": 539887.1877518131
+  },
+  {
+    "Year_Month": "2023-10",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 16470,
+    "Median_Sales_Price_Aggregated": 749798.549556809
+  },
+  {
+    "Year_Month": "2023-10",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 16857,
+    "Median_Sales_Price_Aggregated": 991243.3521353748
+  },
+  {
+    "Year_Month": "2023-10",
+    "Borough": "QUEENS",
+    "Total_Complaints": 13337,
+    "Median_Sales_Price_Aggregated": 765914.585012087
+  },
+  {
+    "Year_Month": "2023-11",
+    "Borough": "BRONX",
+    "Total_Complaints": 8592,
+    "Median_Sales_Price_Aggregated": 457292.5060435133
+  },
+  {
+    "Year_Month": "2023-11",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 12208,
+    "Median_Sales_Price_Aggregated": 394842.8686543111
+  },
+  {
+    "Year_Month": "2023-11",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 12724,
+    "Median_Sales_Price_Aggregated": 1087832.393231265
+  },
+  {
+    "Year_Month": "2023-11",
+    "Borough": "QUEENS",
+    "Total_Complaints": 9710,
+    "Median_Sales_Price_Aggregated": 680925.0604351329
+  },
+  {
+    "Year_Month": "2023-12",
+    "Borough": "BRONX",
+    "Total_Complaints": 8378,
+    "Median_Sales_Price_Aggregated": 499597.099113618
+  },
+  {
+    "Year_Month": "2023-12",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 12253,
+    "Median_Sales_Price_Aggregated": 735294.1176470588
+  },
+  {
+    "Year_Month": "2023-12",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 12093,
+    "Median_Sales_Price_Aggregated": 1255036.2610797745
+  },
+  {
+    "Year_Month": "2023-12",
+    "Borough": "QUEENS",
+    "Total_Complaints": 9653,
+    "Median_Sales_Price_Aggregated": 491539.081385979
+  },
+  {
+    "Year_Month": "2024-01",
+    "Borough": "BRONX",
+    "Total_Complaints": 7669,
+    "Median_Sales_Price_Aggregated": 453470.0315457413
+  },
+  {
+    "Year_Month": "2024-01",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 11784,
+    "Median_Sales_Price_Aggregated": 782334.3848580441
+  },
+  {
+    "Year_Month": "2024-01",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 15232,
+    "Median_Sales_Price_Aggregated": 1135646.6876971608
+  },
+  {
+    "Year_Month": "2024-01",
+    "Borough": "QUEENS",
+    "Total_Complaints": 9552,
+    "Median_Sales_Price_Aggregated": 847791.7981072555
+  },
+  {
+    "Year_Month": "2024-02",
+    "Borough": "BRONX",
+    "Total_Complaints": 7368,
+    "Median_Sales_Price_Aggregated": 512618.2965299685
+  },
+  {
+    "Year_Month": "2024-02",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 11234,
+    "Median_Sales_Price_Aggregated": 787854.8895899054
+  },
+  {
+    "Year_Month": "2024-02",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 12006,
+    "Median_Sales_Price_Aggregated": 1084384.858044164
+  },
+  {
+    "Year_Month": "2024-02",
+    "Borough": "QUEENS",
+    "Total_Complaints": 7889,
+    "Median_Sales_Price_Aggregated": 709779.1798107255
+  },
+  {
+    "Year_Month": "2024-03",
+    "Borough": "BRONX",
+    "Total_Complaints": 9355,
+    "Median_Sales_Price_Aggregated": 488958.9905362776
+  },
+  {
+    "Year_Month": "2024-03",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 13932,
+    "Median_Sales_Price_Aggregated": 962145.1104100946
+  },
+  {
+    "Year_Month": "2024-03",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 15566,
+    "Median_Sales_Price_Aggregated": 1054487.38170347
+  },
+  {
+    "Year_Month": "2024-03",
+    "Borough": "QUEENS",
+    "Total_Complaints": 11876,
+    "Median_Sales_Price_Aggregated": 508675.0788643533
+  },
+  {
+    "Year_Month": "2024-04",
+    "Borough": "BRONX",
+    "Total_Complaints": 11554,
+    "Median_Sales_Price_Aggregated": 507466.4826498423
+  },
+  {
+    "Year_Month": "2024-04",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 14247,
+    "Median_Sales_Price_Aggregated": 787460.5678233438
+  },
+  {
+    "Year_Month": "2024-04",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 16681,
+    "Median_Sales_Price_Aggregated": 1107452.6813880126
+  },
+  {
+    "Year_Month": "2024-04",
+    "Borough": "QUEENS",
+    "Total_Complaints": 12497,
+    "Median_Sales_Price_Aggregated": 761041.0094637224
+  },
+  {
+    "Year_Month": "2024-05",
+    "Borough": "BRONX",
+    "Total_Complaints": 14345,
+    "Median_Sales_Price_Aggregated": 479100.9463722397
+  },
+  {
+    "Year_Month": "2024-05",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 18485,
+    "Median_Sales_Price_Aggregated": 772870.6624605678
+  },
+  {
+    "Year_Month": "2024-05",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 18131,
+    "Median_Sales_Price_Aggregated": 1163249.2113564669
+  },
+  {
+    "Year_Month": "2024-05",
+    "Borough": "QUEENS",
+    "Total_Complaints": 14188,
+    "Median_Sales_Price_Aggregated": 773755.9148264984
+  },
+  {
+    "Year_Month": "2024-06",
+    "Borough": "BRONX",
+    "Total_Complaints": 20069,
+    "Median_Sales_Price_Aggregated": 489353.3123028391
+  },
+  {
+    "Year_Month": "2024-06",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 19803,
+    "Median_Sales_Price_Aggregated": 650236.5930599369
+  },
+  {
+    "Year_Month": "2024-06",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 18568,
+    "Median_Sales_Price_Aggregated": 1179022.0820189274
+  },
+  {
+    "Year_Month": "2024-06",
+    "Borough": "QUEENS",
+    "Total_Complaints": 15988,
+    "Median_Sales_Price_Aggregated": 692034.7003154574
+  },
+  {
+    "Year_Month": "2024-07",
+    "Borough": "BRONX",
+    "Total_Complaints": 19402,
+    "Median_Sales_Price_Aggregated": 472663.643533123
+  },
+  {
+    "Year_Month": "2024-07",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 16792,
+    "Median_Sales_Price_Aggregated": 563880.1261829652
+  },
+  {
+    "Year_Month": "2024-07",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 13901,
+    "Median_Sales_Price_Aggregated": 1143533.123028391
+  },
+  {
+    "Year_Month": "2024-07",
+    "Borough": "QUEENS",
+    "Total_Complaints": 11818,
+    "Median_Sales_Price_Aggregated": 749211.3564668769
+  },
+  {
+    "Year_Month": "2024-08",
+    "Borough": "BRONX",
+    "Total_Complaints": 17189,
+    "Median_Sales_Price_Aggregated": 521293.37539432175
+  },
+  {
+    "Year_Month": "2024-08",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 17342,
+    "Median_Sales_Price_Aggregated": 780757.0977917981
+  },
+  {
+    "Year_Month": "2024-08",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 16837,
+    "Median_Sales_Price_Aggregated": 1017350.1577287066
+  },
+  {
+    "Year_Month": "2024-08",
+    "Borough": "QUEENS",
+    "Total_Complaints": 13007,
+    "Median_Sales_Price_Aggregated": 621056.7823343849
+  },
+  {
+    "Year_Month": "2024-09",
+    "Borough": "BRONX",
+    "Total_Complaints": 31139,
+    "Median_Sales_Price_Aggregated": 520504.7318611987
+  },
+  {
+    "Year_Month": "2024-09",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 20670,
+    "Median_Sales_Price_Aggregated": 757097.7917981072
+  },
+  {
+    "Year_Month": "2024-09",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 17976,
+    "Median_Sales_Price_Aggregated": 1221520.5047318612
+  },
+  {
+    "Year_Month": "2024-09",
+    "Borough": "QUEENS",
+    "Total_Complaints": 14711,
+    "Median_Sales_Price_Aggregated": 591482.6498422712
+  },
+  {
+    "Year_Month": "2024-10",
+    "Borough": "BRONX",
+    "Total_Complaints": 22622,
+    "Median_Sales_Price_Aggregated": 594440.0630914826
+  },
+  {
+    "Year_Month": "2024-10",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 21186,
+    "Median_Sales_Price_Aggregated": 916206.6246056784
+  },
+  {
+    "Year_Month": "2024-10",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 47218,
+    "Median_Sales_Price_Aggregated": 1173341.098169717
+  },
+  {
+    "Year_Month": "2024-10",
+    "Borough": "QUEENS",
+    "Total_Complaints": 21620,
+    "Median_Sales_Price_Aggregated": 776705.8359621451
+  },
+  {
+    "Year_Month": "2024-11",
+    "Borough": "BRONX",
+    "Total_Complaints": 22312,
+    "Median_Sales_Price_Aggregated": 469617.5078864353
+  },
+  {
+    "Year_Month": "2024-11",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 14699,
+    "Median_Sales_Price_Aggregated": 808359.6214511041
+  },
+  {
+    "Year_Month": "2024-11",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 13802,
+    "Median_Sales_Price_Aggregated": 1147476.3406940063
+  },
+  {
+    "Year_Month": "2024-11",
+    "Borough": "QUEENS",
+    "Total_Complaints": 9201,
+    "Median_Sales_Price_Aggregated": 668505.5205047318
+  },
+  {
+    "Year_Month": "2024-12",
+    "Borough": "BRONX",
+    "Total_Complaints": 28640,
+    "Median_Sales_Price_Aggregated": 514589.905362776
+  },
+  {
+    "Year_Month": "2024-12",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 12592,
+    "Median_Sales_Price_Aggregated": 930599.3690851736
+  },
+  {
+    "Year_Month": "2024-12",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 12187,
+    "Median_Sales_Price_Aggregated": 1226340.6940063091
+  },
+  {
+    "Year_Month": "2024-12",
+    "Borough": "QUEENS",
+    "Total_Complaints": 8197,
+    "Median_Sales_Price_Aggregated": 802232.6498422712
+  },
+  {
+    "Year_Month": "2025-01",
+    "Borough": "BRONX",
+    "Total_Complaints": 2079,
+    "Median_Sales_Price_Aggregated": 514589.905362776
+  },
+  {
+    "Year_Month": "2025-01",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 253,
+    "Median_Sales_Price_Aggregated": 930599.3690851736
+  },
+  {
+    "Year_Month": "2025-01",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 812,
+    "Median_Sales_Price_Aggregated": 1137618.2965299685
+  },
+  {
+    "Year_Month": "2025-01",
+    "Borough": "QUEENS",
+    "Total_Complaints": 590,
+    "Median_Sales_Price_Aggregated": 776705.8359621451
+  },
+  {
+    "Year_Month": "2025-02",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 6,
+    "Median_Sales_Price_Aggregated": 930599.3690851736
+  },
+  {
+    "Year_Month": "2025-02",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 3,
+    "Median_Sales_Price_Aggregated": 1147476.3406940063
+  },
+  {
+    "Year_Month": "2025-03",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 3,
+    "Median_Sales_Price_Aggregated": 1226340.6940063091
+  },
+  {
+    "Year_Month": "2025-05",
+    "Borough": "BRONX",
+    "Total_Complaints": 56,
+    "Median_Sales_Price_Aggregated": 492103.7066246057
+  },
+  {
+    "Year_Month": "2025-05",
+    "Borough": "BROOKLYN",
+    "Total_Complaints": 153,
+    "Median_Sales_Price_Aggregated": 808359.6214511041
+  },
+  {
+    "Year_Month": "2025-05",
+    "Borough": "MANHATTAN",
+    "Total_Complaints": 2253,
+    "Median_Sales_Price_Aggregated": 1226340.6940063091
+  },
+  {
+    "Year_Month": "2025-05",
+    "Borough": "QUEENS",
+    "Total_Complaints": 1151,
+    "Median_Sales_Price_Aggregated": 802232.6498422712
+  }
+]
